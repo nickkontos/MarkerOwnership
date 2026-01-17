@@ -1,0 +1,1 @@
+Restricts Dynmap /dmarker deletes so players can only remove markers they created. Ops can remove anything. (v2.0)

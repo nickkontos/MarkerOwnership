@@ -1,0 +1,11 @@
+name: MarkerOwnership
+main: net.lilocappu.markerownership.MarkerOwnershipPlugin
+version: 2.0.6
+author: "Nicolas Kondós"
+description-file: description.txt
+api-version: "1.21"
+depend: [dynmap]
+permissions:
+  markerownership.admin:
+    description: Allows deleting any marker set or marker.
+    default: op
